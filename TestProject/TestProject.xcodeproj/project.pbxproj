@@ -13,6 +13,7 @@
 		EA6CE68F2435EB2B0064DE05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA6CE68E2435EB2B0064DE05 /* Assets.xcassets */; };
 		EA6CE6922435EB2B0064DE05 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA6CE6912435EB2B0064DE05 /* Preview Assets.xcassets */; };
 		EA6CE6952435EB2B0064DE05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA6CE6932435EB2B0064DE05 /* LaunchScreen.storyboard */; };
+		EA784FA42435F766005F3C78 /* HeaderTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA784FA32435F766005F3C78 /* HeaderTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EA6CE6912435EB2B0064DE05 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EA6CE6942435EB2B0064DE05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA6CE6962435EB2B0064DE05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA784FA32435F766005F3C78 /* HeaderTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				EA6CE6932435EB2B0064DE05 /* LaunchScreen.storyboard */,
 				EA6CE6962435EB2B0064DE05 /* Info.plist */,
 				EA6CE6902435EB2B0064DE05 /* Preview Content */,
+				EA784FA32435F766005F3C78 /* HeaderTest.swift */,
 			);
 			path = TestProject;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA784FA42435F766005F3C78 /* HeaderTest.swift in Sources */,
 				EA6CE6892435EB290064DE05 /* AppDelegate.swift in Sources */,
 				EA6CE68B2435EB290064DE05 /* SceneDelegate.swift in Sources */,
 				EA6CE68D2435EB290064DE05 /* ContentView.swift in Sources */,
